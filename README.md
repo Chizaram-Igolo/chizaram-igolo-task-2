@@ -9,8 +9,9 @@
 
 **Live URLs:**
 
-- **Bio Page**: https://bio-page-eight.vercel.app
-- **404 Page**: https://bio-page-eight.vercel.app/404-page/404-page.html
+- **Bio Page**: https://chizaram-igolo-task-2.vercel.app/
+- **404 Error Page**: https://chizaram-igolo-task-2.vercel.app/404-page/404-page.html
+- **Responsive Table Page**: https://chizaram-igolo-task-2.vercel.app/responsive-table/index.html
 
 ## To run
 
