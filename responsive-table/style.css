@@ -211,6 +211,10 @@ tr:nth-child(odd) {
   background-color: #ffffff;
 }
 
+td {
+  vertical-align: top;
+}
+
 .profile-pic-div-1 {
   background-image: url("./images/team-members-pics/01.jpg");
   background-size: cover;
@@ -222,6 +226,33 @@ tr:nth-child(odd) {
 
 .profile-pic-div-2 {
   background-image: url("./images/team-members-pics/02.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  width: 128px;
+  height: 128px;
+}
+
+.profile-pic-div-3 {
+  background-image: url("./images/team-members-pics/03.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  width: 128px;
+  height: 128px;
+}
+
+.profile-pic-div-4 {
+  background-image: url("./images/team-members-pics/04.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  width: 128px;
+  height: 128px;
+}
+
+.profile-pic-div-5 {
+  background-image: url("./images/team-members-pics/05.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 50%;
