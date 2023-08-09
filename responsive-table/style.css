@@ -15,6 +15,8 @@ body {
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   background-image: url("./images/bg.jpg");
   background-repeat: repeat;
+  padding-left: 40px;
+  padding-right: 40px;
   overflow-x: hidden;
 }
 
@@ -107,6 +109,7 @@ table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;
+  overflow: auto;
 }
 
 td,
@@ -149,8 +152,8 @@ td {
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 50%;
-  width: 128px;
-  height: 128px;
+  width: 64px;
+  height: 64px;
 }
 
 .profile-pic-div-2 {
@@ -158,8 +161,8 @@ td {
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 50%;
-  width: 128px;
-  height: 128px;
+  width: 64px;
+  height: 64px;
 }
 
 .profile-pic-div-3 {
@@ -167,8 +170,8 @@ td {
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 50%;
-  width: 128px;
-  height: 128px;
+  width: 64px;
+  height: 64px;
 }
 
 .profile-pic-div-4 {
@@ -176,8 +179,8 @@ td {
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 50%;
-  width: 128px;
-  height: 128px;
+  width: 64px;
+  height: 64px;
 }
 
 .profile-pic-div-5 {
@@ -185,6 +188,6 @@ td {
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 50%;
-  width: 128px;
-  height: 128px;
+  width: 64px;
+  height: 64px;
 }
